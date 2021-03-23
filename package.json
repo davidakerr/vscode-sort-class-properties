@@ -4,6 +4,15 @@
   "description": "Sort lines funky",
   "version": "0.0.1",
   "publisher": "davidakerr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidakerr/vscode-sort-class-properties.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/davidakerr/vscode-sort-class-properties/issues"
+  },
+  "homepage": "https://github.com/davidakerr/vscode-sort-class-properties#readme",
   "license": "MIT",
   "engines": {
     "vscode": "^1.54.0"
