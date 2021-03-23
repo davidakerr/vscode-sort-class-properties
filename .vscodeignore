@@ -1,0 +1,10 @@
+.gitattributes
+.gitignore
+.vscode/**
+**/*.map
+CHANGELOG.md
+out/test/**
+src/**
+test/**
+tsconfig.json
+typings/**
