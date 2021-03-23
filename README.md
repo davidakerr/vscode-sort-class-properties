@@ -12,6 +12,5 @@ Sorts class properties without diisplacing comments or decorators.
 
 ## Usage
 
-Select some class properties and press `shift+alt+s` to sort your current selection, press again to reverse the sort.
-
+Select some class properties and press `shift+alt+s` to sort your current selection.
 Alternatively, select some class properties and search for `Sort Selected Class Properties`
